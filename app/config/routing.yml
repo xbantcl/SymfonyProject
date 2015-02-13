@@ -1,0 +1,8 @@
+ibw_jobeet:
+    resource: "@IbwJobeetBundle/Resources/config/routing.yml"
+    prefix:   /
+
+test_hello:
+    resource: "@testHelloBundle/Resources/config/routing.yml"
+    prefix:   /
+

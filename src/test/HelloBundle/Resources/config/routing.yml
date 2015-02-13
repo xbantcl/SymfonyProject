@@ -1,0 +1,3 @@
+test_hello_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: testHelloBundle:Default:index }
